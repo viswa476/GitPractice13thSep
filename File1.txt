@@ -2,3 +2,4 @@
  Creating New Repo and Git Clone and Commit and Git Add
 Push has done and now Pull command
 check the status
+git Fetch
