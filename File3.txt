@@ -1,3 +1,5 @@
 Hi This is new File.
 This 2nd terminal data.
 This is 1st terminal data.
+some modified data in remote.
+check if there is any conflict errors will come or not.
